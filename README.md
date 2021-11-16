@@ -10,7 +10,7 @@ I did not do parts 4 & 5. They were considerably focused on UI and editing which
 
 ## Usefull Links
 * https://replit.com/@purcell3a/waveportal-baseline-student#.replit
-* 0xBFA2115F38EB215afD4BBeF364AFf85b39272ACF
+* https://etherscan.io/address/0xBFA2115F38EB215afD4BBeF364AFf85b39272ACF
 
 ## Source
 * https://app.buildspace.so/home

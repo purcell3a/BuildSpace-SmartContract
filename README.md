@@ -4,7 +4,9 @@ This is my first project on the blockchain.
 
 I've followed the tutorial pretty closely while I get my feet wet and I recommend it for anyone hoping to get a basic understanding with smart contracts. 
 
-![Landing Page](https://res.cloudinary.com/purcella/image/upload/v1637105219/smartContract_jqjzf0.png)
+I did not do parts 4 & 5. They were considerably focused on UI and editing which wasn't my reason for going through the course. 
+
+![Landing Page](https://res.cloudinary.com/purcella/image/upload/v1637106036/Screen_Shot_2021-11-16_at_3.40.10_PM_s5nge9.png)
 
 ## Source
 * https://app.buildspace.so/home
